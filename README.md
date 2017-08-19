@@ -7,5 +7,5 @@ Instale as dependências e start server.
 ```sh
 $ cd desafiotxm/
 $ npm install 
-$ node app.js
+$ ionic serve
 ```
